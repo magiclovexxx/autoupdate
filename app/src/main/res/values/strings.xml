@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Auto Update</string>
+
+    <string name="description">START AUTO</string>
+    <string name="btnStart">START AUTO</string>
+    <string name="btnStop">STOP AUTO</string>
+    <string name="hint">hint</string>
+    <string name="ok">OK</string>
+
+</resources>
